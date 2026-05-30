@@ -1,7 +1,7 @@
 
   
 var typed = new Typed('#text', {
- strings: ["Java Full Stack Developer","Backend Developer","Spring Boot Developer","Microservices Enthusiast","Video creater"],
+ strings: ["Java Full Stack Developer","Backend Developer","Spring Boot Developer","Microservices Enthusiast","Video Creator"],
    typeSpeed: 100,
    backSpeed: 50,
    backDelay:10,
